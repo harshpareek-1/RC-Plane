@@ -1,9 +1,6 @@
 # RC-Plane
 One of my most ambitious and fun project.
 
-Built in Class 10. First RC plane build in my district.
-No kit. No mentor. No hobby shop nearby.
-
 
 ## 👨‍🔧 The Build (story)
 I ordered parts, found materials locally and built a model.
@@ -44,10 +41,9 @@ Repaired it on site with glue.
 
 ## Fun Facts 
 - Built when i was 15.
-- First RC Plane built from my district.
-- Built with no experience.
+- Built with 0 experience.
 - Built completely from scratch.
-- Took 6 months (due to exams)
+- It Took 6 Long months.
   
 
   ## Images
